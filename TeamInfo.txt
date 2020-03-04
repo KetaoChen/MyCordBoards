@@ -1,0 +1,8 @@
+Team053:
+Jun     Zhang     email: jzhang3056@gatech.edu
+Ketao   Chen      email: kchen343@gatech.edu
+Cong    Zhang     email: czhang384@gatech.edu
+Qianwen Shi       email: qshi61@gatech.edu
+
+
+Note that all_sql_code_summary.sql file in the sql directory contains all SQL statements implemented in our project.
